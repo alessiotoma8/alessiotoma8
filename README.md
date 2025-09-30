@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working <br>On KMM projects at Arcoda, with a focus on GIS and vehicle tracking.  <br><br>👯 I’m looking to collaborate <br>On innovative cross-platform app ideas.  <br><br>🤝 I’m looking for help<br>With backend development, especially with Kotlin Spring.  <br><br>🌱 I’m currently learning <br>Spring Boot, backend design, and improving my Kotlin skills.  React Native<br><br>💬 Ask me about <br>KMM, mobile app development, and cross-platform solutions.  <br>
+🔭 I’m currently working <br>On KMM projects at [Arcoda](https://github.com/ArcodaIT), with a focus on GIS and vehicle tracking.  <br><br>👯 I’m looking to collaborate <br>On innovative cross-platform app ideas.  <br><br>🤝 I’m looking for help<br>With backend development, especially with Kotlin Spring.  <br><br>🌱 I’m currently learning <br>Spring Boot, backend design, and improving my Kotlin skills.  React Native<br><br>💬 Ask me about <br>KMM, mobile app development, and cross-platform solutions.  <br>
 
 
 ## 🌐 Socials:
